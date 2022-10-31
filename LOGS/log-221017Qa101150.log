@@ -1,0 +1,24 @@
+10:12:00.655  INFO  manager.Listener1WD - Before Find Elements By -->By.xpath: //a[text()=' Logout ']
+10:12:05.755  INFO  manager.Listener1WD - After Find Elements By -->By.xpath: //a[text()=' Logout ']
+10:12:05.760  INFO  manager.Listener1WD - List size is -->0
+10:12:05.795  INFO  TestBase - Login scenario success was used dataUser{name='null', lastname='null', email='noa@gmail.com', password='Nnoa12345$', phone='null'}
+10:12:05.796  INFO  manager.Listener1WD - Before Find Element By -->By.xpath: //a[text()='Log in']
+10:12:05.875  INFO  manager.Listener1WD - After Find Element By -->By.xpath: //a[text()='Log in']
+10:12:06.742  INFO  manager.Listener1WD - Before Find Element By -->By.id: email
+10:12:06.800  INFO  manager.Listener1WD - After Find Element By -->By.id: email
+10:12:07.176  INFO  manager.Listener1WD - Before Find Element By -->By.id: password
+10:12:07.229  INFO  manager.Listener1WD - After Find Element By -->By.id: password
+10:12:07.486  INFO  manager.Listener1WD - Before Find Element By -->By.cssSelector: button[type='submit']
+10:12:07.528  INFO  manager.Listener1WD - After Find Element By -->By.cssSelector: button[type='submit']
+10:12:07.594  INFO  manager.Listener1WD - Before Find Element By -->By.cssSelector: button[type='submit']
+10:12:07.628  INFO  manager.Listener1WD - After Find Element By -->By.cssSelector: button[type='submit']
+10:12:08.013  INFO  manager.Listener1WD - Before Find Element By -->By.cssSelector: div.dialog-container
+10:12:10.061  INFO  manager.Listener1WD - After Find Element By -->By.cssSelector: div.dialog-container
+10:12:10.085  INFO  manager.Listener1WD - Before Find Element By -->By.cssSelector: h2.message
+10:12:10.133  INFO  manager.Listener1WD - After Find Element By -->By.cssSelector: h2.message
+10:12:10.153  INFO  TestBase - In assert checked message 'Logged in success' in dialog  
+10:12:10.158  INFO  manager.Listener1WD - Before Find Elements By -->By.xpath: //button[text()='Ok']
+10:12:10.205  INFO  manager.Listener1WD - After Find Elements By -->By.xpath: //button[text()='Ok']
+10:12:10.205  INFO  manager.Listener1WD - List size is -->1
+10:12:10.205  INFO  manager.Listener1WD - Before Find Element By -->By.xpath: //button[text()='Ok']
+10:12:10.264  INFO  manager.Listener1WD - After Find Element By -->By.xpath: //button[text()='Ok']
